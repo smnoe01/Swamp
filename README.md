@@ -1,5 +1,7 @@
 # Swamp
 
+[![ContentDB](https://content.luanti.org/packages/Atlante/swamp/shields/downloads/)](https://content.luanti.org/packages/Atlante/swamp/)
+
 Adds a new swamp biome with mangrove trees, mud, and more!
 
 ## Content
